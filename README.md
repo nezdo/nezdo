@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nezdo
-- 🌱 I’m currently learning python
 - 📫 Email: xenfestation@gmail.com
 
 <!---
